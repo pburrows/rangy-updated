@@ -35,3 +35,8 @@ There is an official Rangy module on NPM called [`rangy`](https://www.npmjs.org/
 ## Documentation
 
 Documentation is in [the docs folder](https://github.com/pburrows/rangy-updated/blob/master/docs/).
+
+
+## Build
+
+run `node .\builder\build.js` locally

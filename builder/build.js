@@ -340,6 +340,7 @@ function createArchiver(fileExtension, archiveCreatorFunc) {
         });
 
         archive.pipe(output);
+        
         archive.bulk([
             {
                 expand: true,
@@ -403,9 +404,9 @@ var actions = [
     lint,
     minify,
     zip,
-    tarGz,
+    // tarGz,
     copyToLib,
-    copyToRelease
+    // copyToRelease
 ];
 
 function callback() {
