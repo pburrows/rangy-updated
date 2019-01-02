@@ -14,6 +14,12 @@ The current version is version 1.3.0.
 
 The latest source code and releases are on [GitHub](../../releases).
 
+## Getting Started
+
+```
+npm i -S rangy-updated
+```
+
 ## Bower
 
 There is now an official Rangy package for Bower with Rangy 1.2 and 1.3 versions, called `rangy`.
