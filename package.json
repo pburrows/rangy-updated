@@ -1,7 +1,7 @@
 {
     "name": "rangy-updated",
     "description": "A cross-browser DOM range and selection library, cloned from the original rangy repository, updated, and accepting PRs",
-    "version": "1.3.2",
+    "version": "1.3.3",
     "author": {
         "name": "Patrick Burrows",
         "email": "pburrows@burrowscorp.com",
